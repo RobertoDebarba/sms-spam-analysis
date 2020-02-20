@@ -1,5 +1,5 @@
-# SMS Span Analysis
-A dataset analysis about SMS span.
+# Span Messages Analysis
+A dataset analysis about span messages.
 
 This project runs on Python 3 and the analysis are stored in the files below:
 * [1 - Most frequent words](https://github.com/RobertoDebarba/sms-spam-analysis/blob/master/data1.ipynb)
