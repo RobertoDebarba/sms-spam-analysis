@@ -1,6 +1,8 @@
 # Spam Messages Analysis
 A dataset analysis about spam messages.
 
+## [Paper about the analysis.](https://github.com/RobertoDebarba/spam-messages-analysis/blob/master/paper/paper.pdf)
+
 This project runs on Python 3 and the analysis are stored in the files below:
 * [1 - Most frequent words](https://github.com/RobertoDebarba/sms-spam-analysis/blob/master/data1.ipynb)
 * [2 - Messages count](https://github.com/RobertoDebarba/sms-spam-analysis/blob/master/data2.ipynb)
